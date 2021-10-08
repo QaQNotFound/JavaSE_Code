@@ -10,7 +10,7 @@ public class Demo_01 {
 //        ming.age = 12; // 对字段age赋值
     }
 
-     class Person {
+     static class Person {
         private String name;
         private int age;
     }
